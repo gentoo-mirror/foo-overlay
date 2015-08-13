@@ -1,0 +1,19 @@
+app-admin/metalog 1-r1 2 3 3-r1: A highly configurable replacement for syslogd/klogd
+app-admin/paco 2.0.9-r1: Source code package organizer
+app-admin/snoopy 1.9.0: Snoopy will log execve() calls into syslog.
+app-laptop/dellfand 0.9: Dell laptop fan regulator for Linux/Solaris.
+app-portage/foobashrc 9999: 
+app-shells/ash-bb 1.20.2 1.20.2-r1: ash from busybox.
+dev-lang/haserl 0.9.29: shellscripts and lua cgi wrapper
+mail-mta/dma 0.8: DragonFly Mail Agent, a small Mail Transport Agent (MTA), designed for home and office use.
+mail-mta/mini_sendmail 1.3.6: The simplest implementation of sendmail, simple forwarder to localhost:25. Chroot friendly.
+media-gfx/brscan3 0.2.11.4: Scanner driver
+media-sound/deadbeef 0.5.1-r1: foobar2000-like music player.
+media-sound/deadbeef 0.5.2 0.5.5 0.6.0-r1 0.6.1: foobar2k-like music player
+net-misc/keyninja 9999: Damn lightweight solution to share one ssh-agent between shells.
+net-print/brother-dcp-j315w-drivers 1: Brother DCP-J315W LPR+cupswrapper drivers
+sys-block/partclone 0.2.69: Partition cloning tool
+sys-boot/lazykernel 9999: 
+sys-fs/mdev-bb 1.20.2 1.20.2-r1 1.21.1: mdev from busybox.
+sys-fs/mdev-like-a-boss 9999 20121223 20130703 20130713 20140109 20140928: Config and scripts mdev-like-a-boss
+x11-apps/disper 0.3.0: Disper is an on-the-fly display switch utility
