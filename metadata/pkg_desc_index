@@ -2,7 +2,6 @@ app-admin/metalog 1-r1 2 3 3-r1: A highly configurable replacement for syslogd/k
 app-admin/paco 2.0.9-r1: Source code package organizer
 app-admin/snoopy 1.9.0: Snoopy will log execve() calls into syslog.
 app-laptop/dellfand 0.9: Dell laptop fan regulator for Linux/Solaris.
-app-portage/foobashrc 9999: 
 app-shells/ash-bb 1.20.2 1.20.2-r1: ash from busybox.
 dev-lang/haserl 0.9.29: shellscripts and lua cgi wrapper
 mail-mta/dma 0.8: DragonFly Mail Agent, a small Mail Transport Agent (MTA), designed for home and office use.
