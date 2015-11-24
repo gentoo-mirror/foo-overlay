@@ -8,7 +8,7 @@ dev-lang/haserl 0.9.29: shellscripts and lua cgi wrapper
 mail-mta/dma 0.8: DragonFly Mail Agent, a small Mail Transport Agent (MTA), designed for home and office use.
 mail-mta/mini_sendmail 1.3.6: The simplest implementation of sendmail, simple forwarder to localhost:25. Chroot friendly.
 media-gfx/brscan3 0.2.11.4: Scanner driver
-media-sound/deadbeef 0.5.1-r1 0.5.2 0.5.5 0.6.0-r1 0.6.1: 
+media-sound/deadbeef 0.5.1-r1 0.5.2 0.5.5 0.6.0-r1 0.6.1: foobar2k-like music player
 net-misc/keyninja 9999: Damn lightweight solution to share one ssh-agent between shells.
 net-print/brother-dcp-j315w-drivers 1: Brother DCP-J315W LPR+cupswrapper drivers
 sys-block/partclone 0.2.69: Partition cloning tool
