@@ -17,4 +17,3 @@ sys-block/partclone 0.2.69: Partition cloning tool
 sys-boot/lazykernel 9999: 
 sys-fs/mdev-bb 1.20.2 1.20.2-r1 1.21.1: mdev from busybox.
 sys-fs/mdev-like-a-boss 9999 20121223 20130703 20130713 20140109 20140928 20160806: Config and scripts mdev-like-a-boss
-x11-apps/disper 0.3.0: Disper is an on-the-fly display switch utility
