@@ -11,3 +11,7 @@ IUSE=""
 
 DEPEND=""
 RDEPEND=""
+
+src_compile() {
+	emake PREFIX="${EPREFIX}/usr"
+}
