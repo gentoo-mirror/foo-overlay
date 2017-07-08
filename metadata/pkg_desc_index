@@ -12,7 +12,7 @@ media-gfx/brscan3 0.2.11.4: Scanner driver
 net-misc/bbcp 9999: bbcp is a point-to-point network file copy application written by Andy Hanushevsky at SLAC as a tool for the BaBar collaboration. It is capable of transferring files at approaching line speeds in the WAN.
 net-misc/keyninja 9999: Damn lightweight solution to share one ssh-agent between shells.
 net-print/brother-dcp-j315w-drivers 1 2: Brother DCP-J315W LPR+cupswrapper drivers
-sys-apps/bubblewrap 0.1.7: Unprivileged sandboxing tool, namespaces-powered chroot-like solution
+sys-apps/bubblewrap 0.1.7 0.1.8: Unprivileged sandboxing tool, namespaces-powered chroot-like solution
 sys-apps/hd-idle 1.04: A utility to spin-down disks after specified period of time. (when hdparm -B/J is not enough)
 sys-block/partclone 0.2.69: Partition cloning tool
 sys-boot/lazykernel 9999: 
