@@ -17,4 +17,4 @@ sys-apps/hd-idle 1.04: A utility to spin-down disks after specified period of ti
 sys-block/partclone 0.2.69: Partition cloning tool
 sys-boot/lazykernel 9999: 
 sys-fs/mdev-bb 1.20.2 1.20.2-r1 1.21.1: mdev from busybox.
-sys-fs/mdev-like-a-boss 9999 20121223 20130703 20130713 20140109 20140928 20160806: Config and scripts mdev-like-a-boss
+sys-fs/mdev-like-a-boss 9999 20121223 20130703 20130713 20140109 20140928 20160806 20170729: Config and scripts mdev-like-a-boss
