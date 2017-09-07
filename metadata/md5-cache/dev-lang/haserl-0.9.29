@@ -8,5 +8,4 @@ KEYWORDS=~x86 ~amd64
 LICENSE=GPL-2
 SLOT=0
 SRC_URI=mirror://sourceforge/haserl/haserl-0.9.29.tar.gz
-_eclass_exported_funcs=src_configure:-
 _md5_=4327c9ac010333b0be70ee0b20013a60

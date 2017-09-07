@@ -6,5 +6,4 @@ KEYWORDS=~amd64 ~x86
 LICENSE=GPL-2
 SLOT=0
 SRC_URI=mirror://sourceforge/hd-idle/hd-idle-1.04.tgz
-_eclass_exported_funcs=-
 _md5_=e4ccab15dc7f740be1ca3c10661482b5
