@@ -1,20 +1,5 @@
-app-admin/metalog 1-r1 2 3 3-r1: A highly configurable replacement for syslogd/klogd
+app-admin/metalog 1-r1 2: A highly configurable replacement for syslogd/klogd
 app-admin/paco 2.0.9-r1: Source code package organizer
-app-admin/snoopy 1.9.0: Snoopy will log execve() calls into syslog.
-app-laptop/dellfand 0.9: Dell laptop fan regulator for Linux/Solaris.
-app-portage/foobashrc 9999: 
-app-shells/ash-bb 1.20.2 1.20.2-r1: ash from busybox.
-app-shells/fzy 0.8 0.8-r1 0.9: A better fuzzy finder, dmenu-like solution for cli
-dev-lang/haserl 0.9.29: shellscripts and lua cgi wrapper
-mail-mta/dma 0.8: DragonFly Mail Agent, a small Mail Transport Agent (MTA), designed for home and office use.
 mail-mta/mini_sendmail 1.3.6: The simplest implementation of sendmail, simple forwarder to localhost:25. Chroot friendly.
-media-gfx/brscan3 0.2.11.4: Scanner driver
-net-misc/bbcp 9999: bbcp is a point-to-point network file copy application written by Andy Hanushevsky at SLAC as a tool for the BaBar collaboration. It is capable of transferring files at approaching line speeds in the WAN.
-net-misc/keyninja 9999: Damn lightweight solution to share one ssh-agent between shells.
-net-print/brother-dcp-j315w-drivers 1 2: Brother DCP-J315W LPR+cupswrapper drivers
-sys-apps/bubblewrap 0.1.7 0.1.8 0.2.0: Unprivileged sandboxing tool, namespaces-powered chroot-like solution
-sys-apps/hd-idle 1.04: A utility to spin-down disks after specified period of time. (when hdparm -B/J is not enough)
-sys-block/partclone 0.2.69: Partition cloning tool
-sys-boot/lazykernel 9999: 
-sys-fs/mdev-bb 1.20.2 1.20.2-r1 1.21.1: mdev from busybox.
-sys-fs/mdev-like-a-boss 9999 20121223 20130703 20130713 20140109 20140928 20160806 20170729: Config and scripts mdev-like-a-boss
+sys-fs/mdev-bb 1.20.2-r1: mdev from busybox.
+sys-fs/mdev-like-a-boss 20121223: Config and scripts mdev-like-a-boss
