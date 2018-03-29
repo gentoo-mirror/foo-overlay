@@ -7,5 +7,5 @@ IUSE=+mdev-bb
 LICENSE=BSD
 RDEPEND=mdev-bb? ( sys-fs/mdev-bb )
 SLOT=0
-_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
+_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03
 _md5_=326b910d9d77fd83161d7df5ca759ee4
