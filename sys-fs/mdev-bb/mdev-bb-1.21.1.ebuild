@@ -1,5 +1,4 @@
 EAPI=7
-inherit eutils flag-o-matic toolchain-funcs multilib
 
 DESCRIPTION="mdev from busybox."
 HOMEPAGE="http://www.busybox.net/"
