@@ -1,4 +1,4 @@
-DEFINED_PHASES=configure install prepare
+DEFINED_PHASES=configure install
 DESCRIPTION=ash from busybox.
 EAPI=7
 HOMEPAGE=http://www.busybox.net/
@@ -8,5 +8,4 @@ LICENSE=GPL-2
 RESTRICT=test
 SLOT=0
 SRC_URI=http://www.busybox.net/downloads/busybox-1.20.2.tar.bz2
-_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	flag-o-matic	55aaa148741116aa54ad0d80e361818e	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
-_md5_=df222f6558f0866c15bd8067bb38ac7e
+_md5_=f4de9e3492feeb1eed447d865cc98ae1
