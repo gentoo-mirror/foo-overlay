@@ -10,11 +10,11 @@ KEYWORDS="~amd64 ~x86"
 
 LICENSE="BSD"
 SLOT="0"
-IUSE="+mdev-bb"
+IUSE=""
 
 DEPEND=""
 RDEPEND="${DEPEND}
-	mdev-bb? ( =sys-fs/mdev-bb-1.21.1 )"
+	>=sys-fs/mdev-bb-1.21.1"
 
 src_install() {
 	mkdir -p "${D}/etc" || die
