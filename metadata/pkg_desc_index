@@ -1,0 +1,10 @@
+app-admin/erunit 9999: Root-less wrapper around runit.
+app-portage/foobashrc 9999: 
+app-shells/ash-bb 1.20.2-r1: ash from busybox.
+dev-lang/haserl 0.9.29: shellscripts and lua cgi wrapper
+mail-mta/dma 0.8: DragonFly Mail Agent, a small Mail Transport Agent (MTA), designed for home and office use.
+net-misc/bbcp 9999: bbcp is a point-to-point network file copy application written by Andy Hanushevsky at SLAC as a tool for the BaBar collaboration. It is capable of transferring files at approaching line speeds in the WAN.
+net-misc/keyninja 9999: Damn lightweight solution to share one ssh-agent between shells.
+sys-boot/lazykernel 9999: 
+sys-fs/mdev-bb 1.21.1: mdev from busybox.
+sys-fs/mdev-like-a-boss 9999 20190108 20190202 20190203 20190223 20190519: Config and scripts mdev-like-a-boss
