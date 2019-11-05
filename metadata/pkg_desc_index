@@ -7,4 +7,4 @@ net-misc/bbcp 9999: bbcp is a point-to-point network file copy application writt
 net-misc/keyninja 9999: Damn lightweight solution to share one ssh-agent between shells.
 sys-boot/lazykernel 9999: 
 sys-fs/mdev-bb 1.21.1: mdev from busybox.
-sys-fs/mdev-like-a-boss 9999 20190108 20190202 20190203 20190223 20190519 20191029: Config and scripts mdev-like-a-boss
+sys-fs/mdev-like-a-boss 9999 20190108 20190202 20190203 20190223 20190519 20191029 20191105: Config and scripts mdev-like-a-boss
