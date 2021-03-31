@@ -3,10 +3,11 @@ DEFINED_PHASES=install postinst unpack
 DESCRIPTION=Config and scripts mdev-like-a-boss
 EAPI=7
 HOMEPAGE=https://github.com/slashbeast/mdev-like-a-boss
+INHERIT=git-r3
 KEYWORDS=~amd64 ~x86
 LICENSE=BSD
 PROPERTIES=live
 RDEPEND=>=sys-fs/mdev-bb-1.21.1
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=ef31e3d1064d9284acdd2ed508c2776b
